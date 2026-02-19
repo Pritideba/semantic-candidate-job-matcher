@@ -141,8 +141,10 @@ Developed by: Pritideba Patra
 2. Close file
 
 
-## 🎥 Project Demo
+## 🎥 Project Demo Video
 
-[Download Video](Recording 2026-02-19 175315.mp4)
+[Click here to watch demo video](freecompress-Recording%202026-02-19%20175315.mp4)
+
+
 
 
